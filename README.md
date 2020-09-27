@@ -10,3 +10,6 @@ Training Data
   返回[.hour, .minute]
 6. NavigationButton
 ---
+![Image text](https://github.com/ZimingDai/BetterRest/blob/master/Simulator%20Screen%20Shot%20-%20iPod%20touch%20(7th%20generation)%20-%202020-09-27%20at%2020.11.50.png)
+---
+![Image text](https://github.com/ZimingDai/BetterRest/blob/master/Simulator%20Screen%20Shot%20-%20iPod%20touch%20(7th%20generation)%20-%202020-09-27%20at%2020.12.32.png)
